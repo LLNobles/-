@@ -1,4 +1,64 @@
 {
     "cmake.options.statusBarVisibility": "visible",
-    "cmake.useCMakePresets": "always"
+    "cmake.useCMakePresets": "auto",
+    {         		"authProvider": "github"
+    {}
+"vscode-kubernetes.kubectl-path-mac": "/Users/leslielynnnobles/.vs-kubernetes/tools/kubectl/kubectl",
+"vscode-kubernetes.helm-path-mac": "/Users/leslielynnnobles/.vs-kubernetes/tools/helm/darwin-arm64/helm",
+"vscode-kubernetes.minikube-path-mac": "/Users/leslielynnnobles/.vs-kubernetes/tools/minikube/darwin-arm64/minikube",
+"vs-kubernetes.knownKubeconfigs": [
+
+"statusBarVisibility": "inherit",
+        "inheritDefault": "visible"
+    },		"vscode-kubernetes.minikube-path-mac": "/Users/leslielynnnobles/.vs-kubernetes/tools/minikube/darwin-arm64/minikube",
+    "vs-kubernetes.knownKubeconfigs": [
+        "vs-kubernetes.knownKubeconfigs"			],
+		"vs-kubernetes.kubeconfig": "/LLNobles/LLNobles/.github/dependabot.yml"
+    },
+	"workbench.startupEditor": "none",
+	"editor.accessibilitySupport": "off",
+	"remoteHub.commitDirectlyWarning": "off",
+	"cmake.options.statusBarVisibility": "visible",
+	"cmake.pinnedCommands": [
+        "cmake.pinnedCommands": [
+            "workbench.action.tasks.runTask"
+    {       
+        "cmake.options.advanced": {
+        "cmake.options.statusBarVisibility": "visible",
+        "cmake.useCMakePresets": "auto",
+        "cmake.options.advanced": 
+        {                                  
+        "vs-kubernetes." : {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        },		"vscode-kubernetes.minikube-path-mac": "/Users/leslielynnnobles/.vs-kubernetes/tools/minikube/darwin-arm64/minikube",
+        "vs-kubernetes.knownKubeconfigs": [
+            "vs-kubernetes.knownKubeconfigs"			],
+			"vs-kubernetes.kubeconfig": "/LLNobles/LLNobles/.github/dependabot.yml"
+        },
+		"workbench.startupEditor": "none",
+		"editor.accessibilitySupport": "off",
+		"remoteHub.commitDirectlyWarning": "off",
+		"cmake.options.statusBarVisibility": "visible",
+		"cmake.pinnedCommands": [
+            "workbench.action.tasks.runTask"
+        ]
+    },
+    "inheritDefault": "visible"
+    },
+    
+        "configurePreset": {},
+        "build": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        },
+        "launch": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        },
+        "debug": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        }
+    }
 }
